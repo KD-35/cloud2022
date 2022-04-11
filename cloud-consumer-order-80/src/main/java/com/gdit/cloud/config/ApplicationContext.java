@@ -11,7 +11,7 @@ public class ApplicationContext {
     @Bean
     @LoadBalanced
     public RestTemplate restTemplate(){
-        System.out.println(123456);
+        System.out.println(33333);
         return new RestTemplate();
 
     }
