@@ -6,9 +6,8 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @SpringBootApplication
 @EnableDiscoveryClient
-public class NacosProviderMain9001 {
+public class ProviderPaymentMain9003 {
     public static void main(String[] args) {
-        SpringApplication.run(NacosProviderMain9001.class,args);
+        SpringApplication.run(ProviderPaymentMain9003.class,args);
     }
-
 }
