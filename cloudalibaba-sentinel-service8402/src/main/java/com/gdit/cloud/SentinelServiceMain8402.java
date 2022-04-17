@@ -3,13 +3,12 @@ package com.gdit.cloud;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
-import org.springframework.cloud.openfeign.EnableFeignClients;
 
 @SpringBootApplication
 @EnableDiscoveryClient
-@EnableFeignClients
-public class ConsumerPaymentMain84 {
+public class SentinelServiceMain8402 {
     public static void main(String[] args) {
-        SpringApplication.run(ConsumerPaymentMain84.class,args);
+        SpringApplication.run(SentinelServiceMain8402.class,args);
     }
+
 }

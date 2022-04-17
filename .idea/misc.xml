@@ -6,7 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/cloud-consumer-order-80/pom.xml" />
-        <option value="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/pom.xml" />
+        <option value="$PROJECT_DIR$/cloudalibaba-sentinel-service8402/pom.xml" />
+        <option value="$PROJECT_DIR$/seata-order-service2001/pom.xml" />
       </list>
     </option>
   </component>
